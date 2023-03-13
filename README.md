@@ -1,4 +1,21 @@
-### Hi there 👋
+## Hi there 👋, I'm Krzysztof
+
+## 📚 I’m currently learning
+
+- Python
+- Django framework
+
+ ## Languages and tools:
+
+<p><a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+<a href="https://git-scm.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> </p>
+
+<br>
+
+![Codewars](https://github.r2v.ch/codewars?user=kgrabczynski&stroke=white)
+
+Take a look at my projects below 👇
+
 
 <!--
 **krzysztofgrabczynski/KrzysztofGrabczynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
