@@ -3,7 +3,7 @@
 ## 📚 I’m currently learning
 
 - Python
-- Django framework
+- Django framework, DRF
 
  ## 🖥️ Languages and tools:
 
