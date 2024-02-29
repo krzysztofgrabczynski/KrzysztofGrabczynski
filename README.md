@@ -1,13 +1,13 @@
-## Hi there 👋, I'm Krzysztof
+## <p align=center>Hi there 👋, I'm Krzysztof</p>
 
-## 📚 I’m currently learning
+## <p align=center>📚 I’m currently learning</p>
 
-- Python
-- Django framework, DRF
+<p align=center>- Python</p>
+<p align=center>- Django framework, DRF</p>
 
- ## 🖥️ Languages and tools:
+ ## <p align=center>🖥️ Languages and tools:</p>
 
-<p><a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a> 
+<p align=center><a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a> 
 <a href="https://www.djangoproject.com/"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/> </a>
 <a href="https://git-scm.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60"/> </a> 
 <a href="https://aws.amazon.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="60" height="60"/> </a>
@@ -17,9 +17,9 @@
 <a href="https://python-poetry.org/"> <img src="https://github.com/python-poetry/website/blob/main/static/images/logo-origami.svg" alt="redis" width="60" height="60"/> </a></p>
 <br> 
 
-<a href="https://www.codewars.com/users/kgrabczynski"> ![Codewars](https://github.r2v.ch/codewars?user=kgrabczynski&stroke=white) 
+<a href="https://www.codewars.com/users/kgrabczynski"><p align=center>![Codewars](https://github.r2v.ch/codewars?user=kgrabczynski&stroke=white) </p>
 
-Take a look at my projects below 👇
+<p align=center>Take a look at my projects below 👇</p>
 
 
 <!--
