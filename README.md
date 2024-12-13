@@ -33,9 +33,16 @@
 </p>
 <br>  
 
-<a href="https://www.codewars.com/users/kgrabczynski"><p align=center>![Codewars](https://github.r2v.ch/codewars?user=kgrabczynski&stroke=white) </p>
+ ## <p align=center>✨ Commercial projects:</p>
 
-<p align=center>Take a look at my projects below 👇</p>
+<p align=center><strong>TravelBalance</strong> is a mobile application designed to help you manage your expenses while traveling. No matter which country you're in, you can log your spending in any currency and enjoy a clear and elegant summary of your trip's finances. This app was created in collaboration with https://github.com/BartlomiejGajdur.</p>
+<p align=center>Test the app now on iOS or Android by searching for TravelBalance in the App Store or Google Play. For more details, visit our <i><a href="https://www.codewars.com/users/kgrabczynski">official website</a></i> or check the repository on GitHub account.</p>
+<br>  
+<br> 
+<br> 
+
+
+<p align=center>Take a look at my all projects below 👇</p>
 
 
 <!--
